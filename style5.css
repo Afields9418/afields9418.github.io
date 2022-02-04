@@ -7,3 +7,9 @@
         body {
             background-color:#00008b;
         }
+
+        #box {
+             width:900px;
+             height:250px;
+             background-color:white;
+}
